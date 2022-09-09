@@ -4,8 +4,8 @@
 ## INTRODUCTION
 
 * This  is  a BMW web  page  built  using  Reactjs  and  the  server  hosted  by  sinatra in ruby.
-      * The React.js  forms  the  frontend  bit  of  the  app.
-      * The  sinatra forms  the  backend  bit  of  the  app.
+* The React.js  forms  the  frontend  bit  of  the  app.
+* The  sinatra forms  the  backend  bit  of  the  app.
 
 
 
